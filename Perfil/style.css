@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #19A1AE;
+    
+}
+
+.card {
+    background-color: #fff;
+}
